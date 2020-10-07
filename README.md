@@ -1,2 +1,0 @@
-# Hello-Jiji
-Hello-GitHub
